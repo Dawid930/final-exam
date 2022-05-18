@@ -7,3 +7,8 @@ You can use this repository as a template for your repository or copy the files 
 3. If you don't need it stop it with `Control + C` keycommand.
 
 You can write your frontend code (`HTML, CSS, JS`) into the `frontend` directory.
+
+
+https://dawid930.github.io/final-exam/
+
+https://github.com/Dawid930/final-exam
